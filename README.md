@@ -22,5 +22,17 @@ Merge.py 生成大屏临时html
 
 <br/>
 
+最终大屏效果如下
 
+<br/>
+
+![image](https://github.com/wangyuna7723/SupermarketAnalysis/blob/master/img/%E5%A4%A7%E5%B1%8F1.png)
+
+![image](https://github.com/wangyuna7723/SupermarketAnalysis/blob/master/img/%E5%A4%A7%E5%B1%8F2.png)
+
+![image](https://github.com/wangyuna7723/SupermarketAnalysis/blob/master/img/%E5%A4%A7%E5%B1%8F3.png)
+
+![image](https://github.com/wangyuna7723/SupermarketAnalysis/blob/master/img/%E5%A4%A7%E5%B1%8F4.png)
+
+![image](https://github.com/wangyuna7723/SupermarketAnalysis/blob/master/img/%E5%A4%A7%E5%B1%8F5.png)
 
